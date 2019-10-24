@@ -10,10 +10,7 @@
             "email": "nd.patel@auckland.ac.nz"
         },
         "info": {
-           "background":  Nunc laoreet ornare massa, congue aliquam neque auctor fringilla. 
-            Suspendisse vehicula tristique nulla, vel tincidunt sapien rhoncus id. In a ante ex. Suspendisse potenti. 
-            Sed suscipit vel mauris eget suscipit. Nulla lobortis pharetra nulla pulvinar placerat. 
-            Sed mattis nulla quis dolor maximus, vel scelerisque purus venenatis. Nullam tempor cursus feugiat.
+           "background":  
            <!-- "research_interests": "<ul><li>Real-Time Systems</li><li>Computer Engineering for Biological Systems (cyber-biological systems)</li><li>Software Engineering for web / cloud services</li><li>Medical Devices</li><li>Heart Modelling and Pacemakers</li><li>Intelligent Transportation Systems</li><li>Industrial Automation.</li></ul>"-->
         }
     },
