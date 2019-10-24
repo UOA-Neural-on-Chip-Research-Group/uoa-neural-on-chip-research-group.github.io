@@ -1,33 +1,5 @@
 [
     {
-        "key": "npatel",
-        "name": "Nitish Patel",
-        "photo": "",
-        "position": "Senior Lecturer",
-        "role": "leader",
-        "contact": {
-            "phone": "+64 9 923 8196",
-            "email": "nd.patel@auckland.ac.nz"
-        },
-        "info": {
-           "background":  
-           <!-- "research_interests": "<ul><li>Real-Time Systems</li><li>Computer Engineering for Biological Systems (cyber-biological systems)</li><li>Software Engineering for web / cloud services</li><li>Medical Devices</li><li>Heart Modelling and Pacemakers</li><li>Intelligent Transportation Systems</li><li>Industrial Automation.</li></ul>"-->
-        }
-    },
-    
-    {
-        "key": "ade",
-        "name": "Adedamola Wuraola",
-        "photo": "",
-        "position": "Doctoral Candidate",
-        "role": "member",
-        "contact": {
-            "email": "awur978@aucklanduni.ac.nz"
-        },
-        "info": {
-        }
-    },
-    {
         "key": "proop",
         "name": "Partha Roop",
         "photo": "https://unidirectory.auckland.ac.nz/people/imageraw/p-roop/10290280/biggest",
@@ -82,7 +54,19 @@
             ]
         }
     },
-    
+    {
+        "key": "npatel",
+        "name": "Nitish Patel",
+        "photo": "",
+        "position": "Senior Lecturer",
+        "role": "member",
+        "contact": {
+            "phone": "+64 9 923 8196",
+            "email": "nd.patel@auckland.ac.nz"
+        },
+        "info": {
+        }
+    },
     {
         "key": "fsundram",
         "name": "Frederick Sundram",
@@ -143,52 +127,8 @@
         "info": {
         }
     },
-    {
-        "key": "wai",
-        "name": "Weiwei Ai",
-        "photo": "",
-        "position": "Postdoctoral Researcher",
-        "role": "member",
-        "contact": {
-            "email": "wai484@aucklanduni.ac.nz"
-        },
-        "info": {
-        }
-    },
-    {
-        "key": "ssehgal",
-        "name": "Sucheta Sehgal",
-        "photo": "",
-        "position": "Doctoral Candidate",
-        "role": "member",
-        "contact": {
-            "email": "ssin263@aucklanduni.ac.nz"
-        },
-        "info": {
-        }
-    },
-    {
-        "key": "mkuo",
-        "name": "Matthew Kuo",
-        "photo": "",
-        "role": "external",
-        "contact": {
-            "email": "mkuo005@aucklanduni.ac.nz"
-        },
-        "info": {
-        }
-    },
-    {
-        "key": "hram",
-        "name": "Harshavardhan Ramanna",
-        "photo": "",
-        "position": "Research Programmer",
-        "role": "alumni",
-        "contact": {
-        },
-        "info": {
-        }
-    },
+
+    
     {
         "key": "lwang",
         "name": "Luman Wang",
@@ -201,5 +141,4 @@
         "info": {
         }
     }
-    
 ]
