@@ -13,51 +13,7 @@
                        
         }
     },
-    <!--
-    {
-        "key": "proop",
-        "name": "Partha Roop",
-        "photo": "https://unidirectory.auckland.ac.nz/people/imageraw/p-roop/10290280/biggest",
-        "position": "Doctoral Candidate",
-        "role": "member",
-        "contact": {
-            "phone": "+64 9 923 5583",
-            "fax": "+64 9 373 7461",
-            "email": "p.roop@auckland.ac.nz",
-            "unidirectory": "https://unidirectory.auckland.ac.nz/profile/p-roop"
-        },
-        "info": {
-            "background": "Partha Roop is the Computer Systems Engineering programme director in the Department of Electrical and Computer Engineering at the University of Auckland, New Zealand. He completed his PhD in Computer Science and Engineering at the University of New South Wales, Sydney, Australia, a M.Tech at Indian Institute of Technology in Kharagpur, India and a BE degree at Anna University (College of Engineering), Madras, India. Partha had visiting positions in Kiel University, Germany (collaboration with the <a href=\"http://www.rtsys.informatik.uni-kiel.de/en\" target=\"blank\">Embedded Systems Group</a>, French National Laboratory of Informatics and Control (<a href=\"https://team.inria.fr/spades/\" target=\"blank\">SPADES team Grenoble</a>), and <a href=\"http://www.ece.iastate.edu\" target=\"_blank\">Iowa State University</a>. He collaborates with University of California, Berkeley in the <a href=\"https://chess.eecs.berkeley.edu/pret/\" target=\"blank\">PRET project</a>.",
-            "research_interests": "<ul><li>Real-Time Systems</li><li>Computer Engineering for Biological Systems (cyber-biological systems)</li><li>Software Engineering for web / cloud services</li><li>Medical Devices</li><li>Heart Modelling and Pacemakers</li><li>Intelligent Transportation Systems</li><li>Industrial Automation.</li></ul>"
-        }
-    },
--->
-    
-   
-    {
-        "key": "nallen",
-        "name": "Nathan Allen",
-        "photo": "",
-        "position": "Doctoral Candidate",
-        "role": "member",
-        "contact": {
-            "email": "nall426@aucklanduni.ac.nz"
-        },
-        "info": {
-        }
-    },
-    {
-        "key": "eyip",
-        "name": "Eugene Yip",
-        "photo": "",
-        "position": "",
-        "role": "alumni",
-        "contact": {
-            "email": "eyip002@aucklanduni.ac.nz"
-        },
-        "info": {
-        }
-    },
+
 
     
     {
@@ -67,7 +23,7 @@
         "position": "Doctoral Candidate",
         "role": "member",
         "contact": {
-            "email": "lwan353@aucklanduni.ac.nz"
+            "email": "awur978@aucklanduni.ac.nz"
         },
         "info": {
         }
