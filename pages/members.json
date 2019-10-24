@@ -1,5 +1,37 @@
 [
     {
+        "key": "npatel",
+        "name": "Nitish Patel",
+        "photo": "",
+        "position": "Senior Lecturer",
+        "role": "leader",
+        "contact": {
+            "phone": "+64 9 923 8196",
+            "email": "nd.patel@auckland.ac.nz"
+        },
+        "info": {
+           "background":  Nunc laoreet ornare massa, congue aliquam neque auctor fringilla. 
+            Suspendisse vehicula tristique nulla, vel tincidunt sapien rhoncus id. In a ante ex. Suspendisse potenti. 
+            Sed suscipit vel mauris eget suscipit. Nulla lobortis pharetra nulla pulvinar placerat. 
+            Sed mattis nulla quis dolor maximus, vel scelerisque purus venenatis. Nullam tempor cursus feugiat.
+           <!-- "research_interests": "<ul><li>Real-Time Systems</li><li>Computer Engineering for Biological Systems (cyber-biological systems)</li><li>Software Engineering for web / cloud services</li><li>Medical Devices</li><li>Heart Modelling and Pacemakers</li><li>Intelligent Transportation Systems</li><li>Industrial Automation.</li></ul>"-->
+        }
+    },
+    
+    {
+        "key": "ade",
+        "name": "Adedamola Wuraola",
+        "photo": "",
+        "position": "Doctoral Candidate",
+        "role": "member",
+        "contact": {
+            "email": "awur978@aucklanduni.ac.nz"
+        },
+        "info": {
+        }
+    },
+    <!--
+    {
         "key": "proop",
         "name": "Partha Roop",
         "photo": "https://unidirectory.auckland.ac.nz/people/imageraw/p-roop/10290280/biggest",
@@ -54,19 +86,7 @@
             ]
         }
     },
-    {
-        "key": "npatel",
-        "name": "Nitish Patel",
-        "photo": "",
-        "position": "Senior Lecturer",
-        "role": "member",
-        "contact": {
-            "phone": "+64 9 923 8196",
-            "email": "nd.patel@auckland.ac.nz"
-        },
-        "info": {
-        }
-    },
+    
     {
         "key": "fsundram",
         "name": "Frederick Sundram",
@@ -185,4 +205,5 @@
         "info": {
         }
     }
+    -->
 ]
