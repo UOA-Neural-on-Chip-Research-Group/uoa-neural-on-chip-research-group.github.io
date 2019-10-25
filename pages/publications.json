@@ -1,22 +1,5 @@
 [
-    {
-        "type": "paper",
-        "key": "sehgal2019-accelerating-action-potential",
-        "author": "Sucheta Sehgal, Saif Charania, Jonathan Reshef, Nitish D Patel, Mark L Trew",
-        "title": "Accelerating Action Potential Generation using GPU Implementation of a Resonant Model of a Cell",
-        "year": "2019",
-		"our_authors": [
-            "ssehgal",
-            "npatel",
-            "mtrew"
-        ],
-		"our_projects": [
-			"modelling"
-		],
-		"links": {
-			"PDF": "https://drive.google.com/file/d/1wzooVoeJLSq08EW7Pqh9DCdBnwtUVORL/view?usp=sharing"
-		}
-    },
+    
     {
         "type": "paper",
         "key": "sehgal2019-parametrizing-drug-effects",
