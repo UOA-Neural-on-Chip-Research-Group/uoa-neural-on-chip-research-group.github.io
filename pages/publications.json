@@ -21,30 +21,7 @@
     
     
    
-    {
-        "type": "article",
-        "key": "andalam2017-a-novel-emulation",
-        "author": "Sidharta Andalam, Nathan Allen, Avinash Malik, Partha S Roop, Mark Trew",
-        "title": "A Novel Emulation Model of the Cardiac Conduction System",
-        "journal": "ACM Transactions on Embedded Computing Systems (TECS)",
-        "volume": "16",
-        "number": "5s",
-        "pages": "157",
-        "year": "2017",
-        "month": "oct",
-        "publisher": "ACM",
-        "our_authors": [
-            "sandalam",
-            "nallen",
-            "amalik",
-            "proop",
-            "mtrew"
-        ],
-		"our_projects": [
-			"ooc",
-			"modelling"
-		]
-    },
+    
     
     {
 		"type": "proceedings",
@@ -66,78 +43,28 @@
 			"modelling"
 		]
 	},
-    
+	
     {
-		"type": "article",
-		"key": "tbme2017-wai",
-		"author": "Weiwei Ai, Nitish D. Patel, Partha S. Roop, Avinash Malik, Sidharta Andalam, Eugene Yip, Nathan Allen, Mark L. Trew",
-		"title": "A parametric computational model of the action potential of pacemaker cells",
-		"journal": "IEEE Transactions on Biomedical Engineering (TBME)",
-        "year": "2017",
-        "volume": "64",
+		"type": "proceedings",
+		"key": "embc2017-wai",
+		"author": "Adedamola Wuraola, Nitish Patel",
+		"title": "Computationally Efficient Radial Basis Function",
+		"booktitle": "25th International Conference on Neural Information Processing",
+		"year": "2018",
+		"month": "dec",
+		"location": "Siem Reap, Cambodia",
 		"links": {
 		},
 		"our_authors": [
 			"wai",
-			"npatel",
-			"proop",
-			"amalik",
-			"sandalam",
-			"eyip",
-			"nallen",
-			"mtrew"
+			"npatel"
 		],
 		"our_projects": [
+			"ooc",
 			"modelling"
 		]
-	},
-	
+	}
     
-    
-    {
-        "type": "article",
-        "key": "malik16-hybrid-poc",
-        "author": "Avinash Malik, Partha S Roop, Sidharta Andalam, Eugene Yip and Mark Trew",
-        "title": "A synchronous rendering of hybrid systems for designing Plant-on-a-Chip (PoC)",
-        "journal": "CoRR",
-        "year": "2015",
-        "volume": "abs/1510.04336",
-        "links": {
-            "URL": "http://arxiv.org/abs/1510.04336"
-        },
-        "our_authors": [
-            "amalik",
-            "proop",
-            "sandalam",
-            "eyip",
-            "mtrew"
-        ],
-        "our_projects": [
-            "ooc"
-        ]
-    },
-    {
-        "type": "article",
-        "key": "yip16-towards-emulation",
-        "author": "Eugene Yip, Sidharta Andalam, Partha S. Roop, Avinash Malik, Mark Trew, Weiwei Ai and Nitish Patel",
-        "title": "Towards the Emulation of the Cardiac Conduction System for Pacemaker Testing",
-        "journal": "CoRR",
-        "year": "2016",
-        "volume": "abs/1603.05315",
-        "links": {
-            "URL": "http://arxiv.org/abs/1603.05315"
-        },
-        "our_authors": [
-            "eyip",
-            "sandalam",
-            "proop",
-            "amalik",
-            "mtrew",
-            "wai",
-            "npatel"
-        ],
-        "our_projects": [
-            "modelling"
-        ]
-    }
+   
+
 ]
