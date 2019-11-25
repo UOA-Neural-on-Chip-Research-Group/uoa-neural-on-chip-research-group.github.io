@@ -18,70 +18,9 @@
 			"PDF": "https://drive.google.com/file/d/1lGhxXGfpfBRfBHfw_uQFVTHzw0A3U-PX/view?usp=sharing"
 		}
     },
-    {
-        "type": "paper",
-        "key": "sehgal2019-resonant-model",
-        "author": "Sucheta Sehgal, Nitish D Patel, Mark L Trew",
-        "title": "A Resonant Model of the Action Potential in Cardiac Cells",
-        "year": "2019",
-        "our_authors": [
-            "ssehgal",
-            "npatel",
-            "mtrew"
-        ],
-		"our_projects": [
-			"modelling"
-		],
-		"links": {
-			"PDF": "https://drive.google.com/file/d/1ncOlZj6Hpv4iyAo5j2lFCgCRinl4ehxE/view?usp=sharing"
-		}
-    },
-    {
-        "type": "article",
-        "key": "sehgal2019-resonant-model-new",
-        "author": "Sucheta Sehgal, Nitish D Patel, Avinash Malik, Partha S Roop, Mark L Trew",
-        "title": "Resonant model - A new paradigm for modeling an action potential of biological cells",
-        "journal": "PloS one",
-        "volume": "14",
-        "number": "5",
-        "pages": "e0216999",
-        "year": "2019",
-        "month": "may",
-        "publisher": "Public Library of Science",
-        "our_authors": [
-            "ssehgal",
-            "npatel",
-            "amalik",
-            "proop",
-            "mtrew"
-        ],
-		"our_projects": [
-			"modelling"
-		],
-		"links": {
-			"PDF": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216999&type=printable"
-		}
-    },
     
-    {
-        "type": "article",
-        "key": "wang2019-a-formal-approach",
-        "author": "Luman Wang, Avinash Malik, Partha Roop, Leo K Cheng, Niranchan Paskaranandavadivel",
-        "title": "A Formal Approach for Scalable Simulation of Gastric ICC Electrophysiology",
-        "journal": "IEEE Transactions on Biomedical Engineering",
-        "year": "2019",
-        "month": "mar",
-        "publisher": "IEEE",
-        "our_authors": [
-            "lwang",
-            "amalik",
-            "proop"
-        ],
-		"our_projects": [
-			"modelling"
-		]
-    },
     
+   
     {
         "type": "article",
         "key": "andalam2017-a-novel-emulation",
