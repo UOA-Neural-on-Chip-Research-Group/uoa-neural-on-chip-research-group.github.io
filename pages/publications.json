@@ -49,21 +49,17 @@
     {
 		"type": "proceedings",
 		"key": "embc2017-wai",
-		"author": "Weiwei Ai, Nitish Patel, Partha Roop, Avinash Malik, Nathan Allen and Mark L. Trew",
-		"title": "An intracardiac electrogram model to bridge virtual hearts and implantable cardiac devices",
-		"booktitle": "39th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC'17)",
-		"year": "2017",
+		"author": "Adedamola Wuraola, Nitish Patel",
+		"title": "SQNL: A New Computationally Efficient Activation Function",
+		"booktitle": "2018 International Joint Conference on Neural Networks (IJCNN)",
+		"year": "2018",
 		"month": "jul",
-		"location": "Jeju Island, South Korea",
+		"location": "Rio de Janeiro, Brazil",
 		"links": {
 		},
 		"our_authors": [
 			"wai",
 			"npatel",
-			"proop",
-			"amalik",
-			"nallen",
-			"mtrew"
 		],
 		"our_projects": [
 			"ooc",
