@@ -1,11 +1,11 @@
 [
     
     {
-        "type": "paper",
+        "type": "proceedings",
         "key": "sehgal2019-parametrizing-drug-effects",
-        "author": "Sucheta Sehgal, Nitish D Patel, Mark L Trew",
-        "title": "Parametrizing Drug Effects with Machine Learning in a New Resonant Model of Cell Electrophysiology",
-        "year": "2019",
+        "author": "Adedamola Wuraola, Nitish D Patel",
+        "title": "Stochasticity-assisted training in artificial neural network",
+        "year": "2018",
         "our_authors": [
             "ssehgal",
             "npatel",
