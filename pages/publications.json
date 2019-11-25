@@ -62,27 +62,7 @@
 			"PDF": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216999&type=printable"
 		}
     },
-    {
-        "type": "article",
-        "key": "ai2019-cardiac-electrical-modeling",
-        "author": "Weiwei Ai, Nitish Dhirubhai Patel, Partha Roop, Avinash Malik, Mark L Trew",
-        "title": "Cardiac Electrical Modeling for Closed-loop Validation of Implantable Devices",
-        "journal": "IEEE Transactions on Biomedical Engineering",
-        "year": "2019",
-        "month": "may",
-        "publisher": "IEEE",
-        "our_authors": [
-            "wai",
-            "npatel",
-            "proop",
-            "amalik",
-            "mtrew"
-        ],
-		"our_projects": [
-			"validation",
-			"modelling"
-		]
-    },
+    
     {
         "type": "article",
         "key": "wang2019-a-formal-approach",
@@ -101,27 +81,7 @@
 			"modelling"
 		]
     },
-    {
-        "type": "proceedings",
-        "key": "andalam2018-rethinking-validation-process",
-        "author": "Sidharta Andalam, Partha Roop, Avinash Malik, Mark Trew",
-        "title": "Rethinking the validation process for medical devices: a cardiac pacemaker case study",
-        "booktitle": "2018 IEEE 21st International Symposium on Real-Time Distributed Computing (ISORC)",
-        "year": "2018",
-        "month": "may",
-        "location": "Singapore",
-        "publisher": "IEEE",
-        "our_authors": [
-            "sandalam",
-            "proop",
-            "amalik",
-            "mtrew"
-        ],
-		"our_projects": [
-			"validation",
-			"modelling"
-		]
-    },
+    
     {
         "type": "article",
         "key": "andalam2017-a-novel-emulation",
@@ -146,28 +106,7 @@
 			"modelling"
 		]
     },
-    {
-        "type": "article",
-        "key": "andalam2017-hybrid-automata-model",
-        "author": "Sidharta Andalam, Avinash Malik, Partha Roop, Mark Trew",
-        "title": "Hybrid automata model of the heart for formal verification of pacemakers",
-        "journal": "EPiC Series in Computing",
-        "volume": "43",
-        "pages": "Sep-17",
-        "year": "2017",
-        "month": "feb",
-        "publisher": "EasyChair",
-        "our_authors": [
-            "sandalam",
-            "amalik",
-            "proop",
-            "mtrew"
-        ],
-		"our_projects": [
-			"validation",
-			"modelling"
-		]
-    },
+    
     {
 		"type": "proceedings",
 		"key": "embc2017-wai",
@@ -192,27 +131,7 @@
 			"modelling"
 		]
 	},
-    {
-		"type": "proceedings",
-		"key": "isorc2017-nall",
-		"author": "Nathan Allen, Hammond Pearce, Partha Roop, Reinhard von Hanxleden",
-		"title": "A model driven approach for cardiac pacemaker design using a PRET processor",
-		"booktitle": "20th IEEE International Symposium on Real-Time Computing",
-		"year": "2017",
-		"month": "may",
-		"location": "Toronto, Canada",
-		"links": {
-		},
-		"our_authors": [
-            "nallen",
-			"proop"
-		],
-		"our_projects": [
-			"ooc",
-			"validation",
-			"modelling"
-		]
-	},
+    
     {
 		"type": "article",
 		"key": "tbme2017-wai",
@@ -237,78 +156,9 @@
 			"modelling"
 		]
 	},
-	{
-		"type": "proceedings",
-		"key": "embc2016-sand",
-		"author": "Sidartha Andalam, Harshavardhan Ramanna, Avinash Malik, Parthasarathi Roop, Nitish Patel, Mark L. Trew",
-		"title": "Hybrid Automata Models of Cardiac Ventricular Electrophysiology for Real-Time Computational Applications",
-		"booktitle": "IEEE Engineering in Medicine and Biology Society (EMBC)",
-		"year": "2016",
-		"month": "aug",
-		"location": "Florida, USA",
-		"links": {
-		},
-		"our_authors": [
-			"sandalam",
-			"hram",
-			"amalik",
-			"proop",
-			"npatel",
-			"mtrew"
-		],
-		"our_projects": [
-			"ooc",
-			"validation",
-			"modelling"
-		]
-	},
-    {
-        "type": "proceedings",
-        "key": "date2016codegen",
-        "author": "Nathan Allen, Sidharta Andalam, Partha Roop, Avinash Malik, Mark Trew and Nitish Patel",
-        "title": "Modular code generation for emulating the electrical conduction system of the human heart",
-        "booktitle": "Design Automation and Test in Europe, 2016. DATE '16",
-        "year": "2016",
-        "month": "mar",
-        "location": "Dresden, Germany",
-        "numpages": "6",
-        "links": {
-        },
-        "our_authors": [
-            "nallen",
-            "sandalam",
-            "proop",
-            "amalik",
-            "mtrew",
-            "npatel"
-        ],
-        "our_projects": [
-            "ooc",
-            "validation",
-            "modelling"
-        ]
-    },
-    {
-        "type": "proceedings",
-        "key": "date2016validation",
-        "author": "Weiwei Ai, Nitish Patel and Partha Roop",
-        "title": "Requirements-Centric Closed-Loop Validation of Implantable Cardiac Devices",
-        "booktitle": "Design Automation and Test in Europe, 2016. DATE '16",
-        "year": "2016",
-        "month": "mar",
-        "location": "Dresden, Germany",
-        "numpages": "4",
-        "links": {
-        },
-        "our_authors": [
-            "wai",
-            "npatel",
-            "proop"
-        ],
-        "our_projects": [
-            "validation"
-        ]
-    },
+	
+    
+    
     {
         "type": "article",
         "key": "malik16-hybrid-poc",
@@ -353,28 +203,6 @@
         ],
         "our_projects": [
             "modelling"
-        ]
-    },
-    {
-        "type": "proceedings",
-        "key": "arch-16-spacex",
-        "author": "Sidharta Andalam, Avinash Malik, Partha S. Roop and Mark Trew",
-        "title": "Hybrid Automata Model of the Heart for Formal Verification of Pacemakers",
-        "booktitle": "Applied Verification for Continuous and Hybrid Systems, 2016. ARCH '16",
-        "year": "2016",
-        "month": "apr",
-        "location": "Vienna, Austria",
-        "links": {
-        },
-        "our_authors": [
-            "sandalam",
-            "amalik",
-            "proop",
-            "mtrew"
-        ],
-        "our_projects": [
-            "modelling",
-            "validation"
         ]
     }
 ]
