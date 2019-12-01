@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 540 100" style="enable-background:new 0 0 540 100;" xml:space="preserve">
+<style type="text/css">
+	.symbol_fill{fill:#E53935;}
+	.tm{stroke:#E53935;stroke-width:2;stroke-miterlimit:10;}
+	.symbol_line{stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+</style>
+
+<g>
+	<text x="210" y="34" style="fill:black;" text-anchor="middle" font-family="verdana" font-size="24">
+        Neural On Chip Research Group
+	</text>
+
+	<path class="symbol_line symbol_fill" d="M120,46
+		l300,0
+		l0,8
+		l-420,0
+		l0,-8
+		z"/>
+
+	<text x="200" y="84" style="fill:black;" text-anchor="middle" font-family="verdana" font-size="24">The University of Auckland</text>
+</g>
+</svg>
